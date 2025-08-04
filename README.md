@@ -1,6 +1,6 @@
-Sergei Popov / Software Engineer & Technical Leader
+# Sergei Popov / Software Engineer & Technical Leader
 
-🎯 Professional background
+## 🎯 Professional background
 
 Before moving to IT, he had a successful career in the medical field, where:
 * Worked as a certified surgeon and endoscopist
@@ -16,18 +16,25 @@ This experience has shaped:
 * Ability to effectively manage teams
 * Responsible decision-making skills in critical situations
 
-🔎 About me
+
+## 🔎 About me
+
 An experienced technical leader and application architect with over 7 years of software development experience. I specialize in creating reliable architectural solutions and managing development teams.
 
+
 💼 Current position
+
 Software Engineer (AdTech) VK develops advanced advertising technologies and optimizes digital solutions. The focus is on creating scalable and efficient software for the advertising ecosystem.
 
+
 🎯 Professional goals
+
 * Development in the role of Team Lead / CTO / CIO
 * Management of development teams
 * Creation and optimization of architectural solutions
 
-Directions for collaboration:
+
+**Directions for collaboration:**
 
 * **HomeMoney** [![GitHub](https://img.shields.io/badge/GitHub-blue?logo=github)](https://github.com/DotikDeveloper/homemoney)
 
@@ -48,23 +55,29 @@ Directions for collaboration:
 
 I am looking for talented backend developers and UI/UX designers to collaborate on projects.
 
+
 🧠 Current training
+
 * Web Application Architecture
 * Cloud technologies
 * Design patterns
 
+
 🛠 Key skills
-* Frontend: React.js, Next.js, TypeScript, HTML5, CSS3, Styled Components, Framer Motion
-* Backend: Node.js, Express.js, NestJS
-* Databases: PostgreSQL, MongoDB
-* Tools: Docker, Git, Webpack, Figma
-* Methodologies: Agile, Scrum
-* English: level B2
+
+* Frontend: React.js, Next.js, TypeScript, HTML5, CSS3, Styled Components, Framer Motion, etc.
+* Backend: Node.js, Express.js, NestJS, etc.
+* Databases: PostgreSQL, MongoDB, etc.
+* Tools: Docker, Git, Webpack, Figma, etc.
+* Methodologies: Agile, Scrum, Kanban, etc.
+* English: B2
 
 ## 🎓 Education
 
-***Higher medical education** (Tyumen State Medical University)
-***Courses and certifications**:
+**Higher medical education** (Tyumen State Medical University)
+
+**Courses and certifications**:
+
 * Algorithms and data structures
 * Network protocols
 * Design Patterns
@@ -86,9 +99,11 @@ I am looking for talented backend developers and UI/UX designers to collaborate 
 * Successful mentoring of 3-4 projects annually
 
 ## 🔗 Contacts
-* **Email**: contact@dotdev.site
 
-## 🌐 Social networks
+**Email**: contact@dotdev.site
+
+🌐 Social networks
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/DotikDeveloper)
 [![X](https://img.shields.io/badge/X-%2300acee.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DotikDeveloper)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DotikDeveloper)
